@@ -1,3 +1,6 @@
+8/20/2013 v.3
+Add States Taxonomy Feature for fun and profit.
+
 8/19/2013 v.2
 Added {"type":"MultiLineString" for Hawaii, Michigan and Alaska for Drupal happiness.
 
