@@ -1,3 +1,6 @@
+8/21/2013 v.4
+Directory restructuring
+
 8/20/2013 v.3
 Add States Taxonomy Feature for fun and profit.
 
