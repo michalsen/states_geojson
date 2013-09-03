@@ -1,3 +1,6 @@
+9/3/2013  v.6
+Added states_geoson feature with polygon data of each state.
+
 8/21/2013 v.5
 Added csv of states for taxonomy import.
 
