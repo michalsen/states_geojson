@@ -1,3 +1,9 @@
+9/4/2013  v.7
+Cleaned directory
+ states/ individual state polygons
+ states_geojson/ Drupal feature for state taxonomy
+ states.csv CSV of state name, initial and GeoJSON data
+ 
 9/3/2013  v.6
 Added states_geoson feature with polygon data of each state.
 
