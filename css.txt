@@ -1,0 +1,35 @@
+
+/* ==========================================================================
+   Some lovely css for your map ... or not.
+   ========================================================================== */
+
+.leaflet-clickable {
+  cursor: pointer;
+  fill: #fff;
+  fill-opacity: 0.3;
+  stroke-width: .1;
+}
+
+.leaflet-clickable:hover {
+  fill: #63aa7e;
+  fill-opacity: .5;
+}
+
+.leaflet-container {
+  background: #fff;
+  outline: 0;
+}
+
+.leaflet-overlay-pane {
+  position: absolute;
+  left: -20;
+  top: -20;
+}
+
+.leaflet-popup-content {
+  color: black;
+}
+
+.leaflet-popup-content .popup_contact {
+  margin-bottom: 10px;
+}
